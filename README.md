@@ -7,7 +7,16 @@ CITATION
 Our paper describing an automatic method to segment choroid plexus in multiple sclerosis patients using 3D T1-weighted and FLAIR brain MRI has been published on the Journal of Magnetic Resonance Imaging. If you use this algorithm, please cite our paper: 
 
 Storelli, L., Pagani, E., Rubin, M., Margoni, M., Filippi, M., Rocca, MA., 2023. A Fully Automatic Method to Segment Choroid Plexuses in Multiple Sclerosis Using Conventional MRI Sequences. Journal of Magnetic Resonance Imaging.
-                            
+
+PIPELINE
+
+![image](https://github.com/lorestore/NRU-CP_segmentation/assets/64906745/6a9b41f5-8bdf-4032-88ca-048ef95edb44)
+
+
+Examples of choroid plexus segmentations from three automatic pipelines: FreeSurfer (FS), the recently published FS extension (FS-GMM) and the proposed method (FLAIR+T1 GMM) 
+
+![image](https://github.com/lorestore/NRU-CP_segmentation/assets/64906745/f2eafe76-f1bd-4b84-99e6-f7feba059a7c)
+
 REQUIRED PACKAGES
 
 •	FSL - for brain tissue segmentation and image registration
