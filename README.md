@@ -49,9 +49,11 @@ Then in the terminal, run:
 
 The resulting choroid plexus segmentation mask is named: ‘CP_mask.nii’
 
-Contacts
+CONTACTS
 
-rocca.mara@hsr.it
+For more details on the code, please contact:
 
 storelli.loredana@hsr.it
+
+
 
