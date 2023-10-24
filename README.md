@@ -1,5 +1,4 @@
-# NRU-CP_segmentation
-A Fully Automatic Method to Segment Choroid Plexuses using Conventional MRI Sequences
+# A Fully Automatic Method to Segment Choroid Plexuses using Conventional MRI Sequences
 
 Choroid plexus (CP) is a structure of the brain ventricular system that demonstrated an involvement in the inflammatory process of patients with neurological diseases like multiple sclerosis. However, its role in the pathophysiology of these diseases needs to be further explored but its manual delineation on MRI is time-consuming. We developed a fully-automatic method to segment CP using 3DT1-weighted and FLAIR MRI sequences. The algorithm proved to be accurate, easy to implement and do not require an initial training phase on huge amount of data, being generalizable and a fast tool to potentially be included in a clinical setting.
 
