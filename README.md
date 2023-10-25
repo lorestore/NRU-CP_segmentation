@@ -45,7 +45,7 @@ Please be sure that both codes CP_GMM_segm.p and Divide_CSF.p are in the same fo
 
 Then in the terminal, run:
 
-  matlab -nodesktop -nosplash -r "addpath <path_to_the_program>; addpath <path_to_spm>; CP_GMM_segm; quit;"
+    matlab -nodesktop -nosplash -r "addpath <path_to_the_program>; addpath <path_to_spm>; CP_GMM_segm; quit;"
 
 The resulting choroid plexus segmentation mask is named: ‘CP_mask.nii’
 
